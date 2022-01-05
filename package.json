@@ -1,0 +1,35 @@
+{
+  "name": "bugsnag-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cross-env ENV=development WATCH=false webpack --config config/webpack.config.js",
+    "build:prod": "cross-env ENV=production WATCH=false webpack --config config/webpack.config.js",
+    "watch": "cross-env ENV=development WATCH=true webpack --config config/webpack.config.js"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/sanderdekroon/bugsnag-js",
+  "author": {
+    "name": "Sander de Kroon",
+    "email": "bugsnagjs@dekroon.xyz",
+    "url": "https://sanderdekroon.xyz"
+  },
+  "license": "GPLv2",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-react": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.5.1",
+    "mini-css-extract-plugin": "^2.4.5",
+    "node-sass": "^7.0.0",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "@bugsnag/js": "^7.14.1"
+  }
+}

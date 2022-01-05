@@ -1,0 +1,22 @@
+.form__row {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-bottom: 30px;
+
+  &.hidden { display: none; }
+
+  &-label {
+    flex: 0 1 auto;
+    min-width: 250px;
+    label { font-weight: bold; }
+  }
+
+  &-input {
+    flex: 1 0 auto;
+    input[type=text], input[type=number], select {
+      width: 100%;
+      max-width: 400px;
+      padding: 0.5em;
+    }
+  }
+}
