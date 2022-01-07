@@ -6,8 +6,8 @@ use Sanderdekroon\BugsnagJs\Utility\Request;
 use Sanderdekroon\BugsnagJs\Storage\OptionStorage;
 
 return [
-    'plugin.name'       => 'Bugsnag for Browser (Javascript)',
-    'plugin.slug'       => 'bugsnag-js',
+    'plugin.name'       => 'Front-end javascript error monitoring with Bugsnag',
+    'plugin.slug'       => 'front-end-error-monitoring-with-bugsnag',
     'plugin.version'    => '1.0.0',
     'plugin.path'       => dirname(__DIR__),
     'plugin.url'        => plugins_url(basename(dirname(__DIR__))),

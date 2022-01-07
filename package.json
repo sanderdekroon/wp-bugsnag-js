@@ -1,5 +1,5 @@
 {
-  "name": "bugsnag-js",
+  "name": "front-end-error-monitoring-with-bugsnag",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "watch": "cross-env ENV=development WATCH=true webpack --config config/webpack.config.js"
   },
   "keywords": [],
-  "homepage": "https://github.com/sanderdekroon/bugsnag-js",
+  "homepage": "https://github.com/sanderdekroon/wp-bugsnag-js",
   "author": {
     "name": "Sander de Kroon",
     "email": "bugsnagjs@dekroon.xyz",

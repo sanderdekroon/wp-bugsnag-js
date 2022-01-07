@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Bugsnag for Browser (Javascript)
+ * Plugin Name: Front-end javascript error monitoring with Bugsnag
  * Plugin URI: https://github.com/sanderdekroon/wp-bugsnag-js
  * Description: Easily add Bugsnag error monitoring for your front-end
  * Author: sanderdekroon

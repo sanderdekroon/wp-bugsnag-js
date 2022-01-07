@@ -1,5 +1,5 @@
 {
-    "name": "sanderdekroon/bugsnag-js",
+    "name": "sanderdekroon/front-end-error-monitoring-with-bugsnag",
     "type": "library",
     "description": "Easily add Bugsnag error monitoring for your front-end.",
     "keywords": [
@@ -10,7 +10,7 @@
         "front-end",
         "browser"
     ],
-    "homepage": "https://github.com/sanderdekroon/bugsnag-js",
+    "homepage": "https://github.com/sanderdekroon/wp-bugsnag-js",
     "license": "GPLv2",
     "authors": [
         {
