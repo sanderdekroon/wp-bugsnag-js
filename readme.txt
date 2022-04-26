@@ -2,9 +2,9 @@
 Contributors: sanderdekroon
 Tags: bugsnag, error, monitoring, exception, logging, javascript
 Requires at least: 5.0
-Tested up to: 5.8.3
+Tested up to: 5.9
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Easily add Bugsnag error monitoring for your front-end.
@@ -26,6 +26,9 @@ To manually install this plugin:
 1. Click the 'Settings' link next to the Bugsnag plugin, and follow the instructions
 
 == Changelog ==
+
+= 1.0.1 =
+* Update dependencies
 
 = 1.0.0 =
 * Initial release

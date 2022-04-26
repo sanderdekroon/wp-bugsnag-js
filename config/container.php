@@ -8,7 +8,7 @@ use Sanderdekroon\BugsnagJs\Storage\OptionStorage;
 return [
     'plugin.name'       => 'Front-end javascript error monitoring with Bugsnag',
     'plugin.slug'       => 'front-end-error-monitoring-with-bugsnag',
-    'plugin.version'    => '1.0.0',
+    'plugin.version'    => '1.0.1',
     'plugin.path'       => dirname(__DIR__),
     'plugin.url'        => plugins_url(basename(dirname(__DIR__))),
 

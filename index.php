@@ -6,7 +6,7 @@
  * Description: Easily add Bugsnag error monitoring for your front-end
  * Author: sanderdekroon
  * Author URI: https://github.com/sanderdekroon/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: sdk-bugsnag-js
  */
 
